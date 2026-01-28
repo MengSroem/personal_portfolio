@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>@yield('title', 'Personal Portfolio')</title>
     <link rel="stylesheet" href="{{ asset('css/style.css') }}">
+    <script src="{{ asset('js/main.js') }}" defer></script>
 </head>
 <body>
     <!-- Navigation Bar -->
